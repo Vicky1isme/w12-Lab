@@ -1,0 +1,22 @@
+div{
+     border: 1px solid grey;
+     margin-top:100px;
+     margin-bottom:100px;
+     margin-right:450px;
+     margin-left:450px;
+     background-color: lightyellow;
+     text-align:center;
+ }
+.header{
+     text-align:center;
+ }
+ .input_box{
+     text-align:center;
+     width:170px;height:20px
+ }
+ .cal_button{
+     width:170px;height:20px
+ }
+br {
+        line-height: 150%;
+     }
